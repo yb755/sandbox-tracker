@@ -2,8 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.vbgps</groupId>
-    <artifactId>tracker</artifactId>
+    <artifactId>sandbox-tracker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>tracker-core</artifactId>
+  <artifactId>sandbox-tracker-core</artifactId>
 </project>
